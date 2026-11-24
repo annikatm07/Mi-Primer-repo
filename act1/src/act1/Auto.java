@@ -10,5 +10,6 @@ public class Auto {
 	private double ingresosXmes;
 	private Licencia licencia;
 	private String negra;
+	private String negro;
 
 }
