@@ -9,5 +9,6 @@ public class Auto {
 	private double cbMensual;
 	private double ingresosXmes;
 	private Licencia licencia;
+	private String negra;
 
 }
